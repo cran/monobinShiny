@@ -1,6 +1,6 @@
 Package: monobinShiny
 Title: Shiny User Interface for 'monobin' Package
-Version: 0.0.9
+Version: 0.1.0
 Authors@R: 
     person(given = "Andrija",
            family = "Djurovic",
@@ -20,7 +20,7 @@ RoxygenNote: 7.1.1
 Depends: DT, monobin, shiny, shinydashboard, shinyjs
 Imports: dplyr
 NeedsCompilation: no
-Packaged: 2021-08-21 13:52:45 UTC; adjurovic
+Packaged: 2021-11-22 07:03:42 UTC; adjurovic
 Author: Andrija Djurovic [aut, cre]
 Repository: CRAN
-Date/Publication: 2021-08-23 18:00:06 UTC
+Date/Publication: 2021-11-22 07:10:02 UTC
